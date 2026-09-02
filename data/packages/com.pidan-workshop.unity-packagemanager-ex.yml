@@ -1,0 +1,20 @@
+name: com.pidan-workshop.unity-packagemanager-ex
+aliases: []
+displayName: Pidan Workshop - Package Manager Ex
+description: A Unity Editor tool for switching packages between embedded, local-path, and remote registry sources.
+repoUrl: https://github.com/Pidan-Workshop/UnityPackageManagerEx
+trackingMode: git
+parentRepoUrl: null
+licenseSpdxId: MIT
+licenseName: MIT License
+image: ''
+topics:
+  - editor-enhancement
+  - package-management
+  - utilities
+hunter: Cloud-W
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: 1.0.0
+readme: main:README.md
+createdAt: 1788315465510
